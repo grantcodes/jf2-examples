@@ -1,0 +1,23 @@
+{
+  "type": "entry",
+  "location": {
+      "type": "card",
+      "name": "Portland, Oregon, USA",
+      "latitude": "45.51125",
+      "longitude": "-122.653804"
+  },
+  "name": "\"Because I've already got webmentions on my site, Brid.gy worked straight out of the gate--a lovely demonstration of some small pieces, loosely joined.\" - @adactio on posting notes from his own website: http://adactio.com/journal/6826/",
+  "category": [
+      "indieweb",
+      "webmention",
+      "bridgy",
+      "twitter"
+  ],
+  "url": "https://aaronparecki.com/2014/06/01/9/indieweb",
+  "author": "https://aaronparecki.com/",
+  "published": "2014-06-01T12:35:41-07:00",
+  "content": {
+    "html": "\"Because I've already got webmentions on my site, Brid.gy worked straight out of the gate--a lovely demonstration of some small pieces, loosely joined.\" - <a href=\"https://twitter.com/adactio\">@adactio</a> on posting notes from his own website: <a href=\"http://adactio.com/journal/6826/\"><span class=\"protocol\">http://</span>adactio.com/journal/6826/</a>",
+    "text": "\"Because I've already got webmentions on my site, Brid.gy worked straight out of the gate--a lovely demonstration of some small pieces, loosely joined.\" - @adactio on posting notes from his own website: http://adactio.com/journal/6826/"
+  }
+}

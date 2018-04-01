@@ -1,0 +1,22 @@
+{
+  "type": "entry",
+  "author": {
+      "type": "card",
+      "photo": "https://martymcgui.re/images/logo.jpg",
+      "name": "Marty McGuire",
+      "url": "https://martymcgui.re/"
+  },
+  "name": "This Week in the IndieWeb February 10 - 17, 2017",
+  "category": [
+      "podcast",
+      "IndieWeb",
+      "this-week-indieweb-podcast"
+  ],
+  "url": "https://martymcgui.re/2017/02/18/151503/",
+  "audio": "https://media.martymcgui.re/f6/9b/41/5b/1492d181b1d631e56f5f1ced270cac7dfec973a7c90ad47c6a8ddbf3.mp3",
+  "published": "2017-02-18T15:15:03-05:00",
+  "content": {
+      "html": " <div class=\"audios\"> <audio controls=\"\" style=\"width: 100%\"><source class=\"u-audio\" src=\"https://media.martymcgui.re/f6/9b/41/5b/1492d181b1d631e56f5f1ced270cac7dfec973a7c90ad47c6a8ddbf3.mp3\" type=\"audio/mpeg\"></source></audio><script src=\"https://martymcgui.re/js/media_fragment.js\"></script></div> <p>Audio edition for <a href=\"https://indieweb.org/this-week/2017-02-17.html\">This Week in the IndieWeb for February 10th - 17th, 2017</a></p> <p>Thinking about doing this as a regular thing, if I can get the production time down. Feedback welcome!</p> <p>Music from <a href=\"https://aaronparecki.com/\">Aaron Parecki</a>\u2019s <a href=\"https://aaronparecki.com/tag/100daysofmusic\">100DaysOfMusic project</a>:</p> <ul><li><a href=\"https://aaronparecki.com/2017/02/06/7/day48\">Day 48 - Glitch</a></li> <li><a href=\"https://aaronparecki.com/2017/02/07/4/day49\">Day 49 - Floating</a></li> <li><a href=\"https://aaronparecki.com/2016/12/29/21/day-9\">Day 9</a></li> <li><a href=\"https://aaronparecki.com/2016/12/31/15/\">Day 11</a></li> </ul>",
+      "text": "Audio edition for This Week in the IndieWeb for February 10th - 17th, 2017 Thinking about doing this as a regular thing, if I can get the production time down. Feedback welcome! Music from Aaron Parecki\u2019s 100DaysOfMusic project: Day 48 - Glitch Day 49 - Floating Day 9 Day 11"
+  }
+}
