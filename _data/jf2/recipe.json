@@ -1,0 +1,44 @@
+{
+  "type": "recipe",
+  "author": {
+      "type": "card",
+      "name": "gRegor Morrill",
+      "url": "https://gregorlove.com/",
+      "photo": "https://gregorlove.com/site/assets/files/3473/profile-2016-med.jpg"
+  },
+  "comment": {
+      "type": "cite",
+      "author": {
+          "type": "card",
+          "photo": "https://gregorlove.com/site/assets/files/3540/1dfe16005864a9fc9564a3884378cdc89abd66b173ed10bce2ac60ed782dab01.jpg",
+          "name": "gRegor Morrill",
+          "url": "https://gregorlove.com/"
+      },
+      "content": "The original recipe says to cook 8 to 10 hours, but I've always found it ready earlier, so I listed a shorter cooking time. I will often drain the hominy, too, so it\u2019s less soupy. Sometimes I will serve it over rice.",
+      "url": "https://gregorlove.com/2017/04/the-original-recipe-says-to/",
+      "published": "2017-04-14T09:51:00-07:00"
+  },
+  "name": "Crock Pot White Chicken Chili",
+  "ingredient": [
+      "1.25 pounds boneless skinless chicken",
+      "2 \u00d7 15 oz cans great northern beans (or navy beans)",
+      "15 oz can of hominy (or white corn)",
+      "1.25 oz envelope of taco seasoning",
+      "4.5 oz can of chopped green chilies",
+      "10.75 oz can of condensed cream of chicken soup",
+      "14 oz can of chicken broth",
+      "0.5 cup of sour cream",
+      "chopped green onion (optional)",
+      "monterey jack cheese (optional)"
+  ],
+  "instructions": "Place chicken in a 4 quart slow cooker. Top with beans and corn. In a medium bowl, combine taco seasoning, chilies, condensed soup, and chicken broth. Pour over top of ingredients in the crock pot. Cover and cook on low for 6 to 8 hours. Before serving, stir gently to break up chicken, then stir in the sour cream. Serve topped with green onions and jack cheese, if desired.",
+  "url": [
+    "http://www.food.com/recipe/crock-pot-white-chicken-chili-114789",
+    "https://gregorlove.com/2017/04/crock-pot-white-chicken-chili/"
+  ],
+  "published": "2017-04-14 09:47-0700",
+  "content": {
+      "html": " <p><strong>Ingredients</strong></p> <ul><li class=\"p-ingredient\">1.25 pounds boneless skinless chicken</li> <li class=\"p-ingredient\">2 \u00d7 15 oz cans great northern beans (or navy beans)</li> <li class=\"p-ingredient\">15 oz can of hominy (or white corn)</li> <li class=\"p-ingredient\">1.25 oz envelope of taco seasoning</li> <li class=\"p-ingredient\">4.5 oz can of chopped green chilies</li> <li class=\"p-ingredient\">10.75 oz can of condensed cream of chicken soup</li> <li class=\"p-ingredient\">14 oz can of chicken broth</li> <li class=\"p-ingredient\">0.5 cup of sour cream</li> <li class=\"p-ingredient\">chopped green onion (optional)</li> <li class=\"p-ingredient\">monterey jack cheese (optional)</li> </ul><p><strong>Instructions</strong></p> <p class=\"p-instructions\">Place chicken in a 4 quart slow cooker. Top with beans and corn. In a medium bowl, combine taco seasoning, chilies, condensed soup, and chicken broth. Pour over top of ingredients in the crock pot. Cover and cook on low for 6 to 8 hours. Before serving, stir gently to break up chicken, then stir in the sour cream. Serve topped with green onions and jack cheese, if desired.</p> <p>via <a class=\"u-url u-uid\" href=\"http://www.food.com/recipe/crock-pot-white-chicken-chili-114789\">food.com</a></p> ",
+      "text": "Ingredients 1.25 pounds boneless skinless chicken 2 \u00d7 15 oz cans great northern beans (or navy beans) 15 oz can of hominy (or white corn) 1.25 oz envelope of taco seasoning 4.5 oz can of chopped green chilies 10.75 oz can of condensed cream of chicken soup 14 oz can of chicken broth 0.5 cup of sour cream chopped green onion (optional) monterey jack cheese (optional) Instructions Place chicken in a 4 quart slow cooker. Top with beans and corn. In a medium bowl, combine taco seasoning, chilies, condensed soup, and chicken broth. Pour over top of ingredients in the crock pot. Cover and cook on low for 6 to 8 hours. Before serving, stir gently to break up chicken, then stir in the sour cream. Serve topped with green onions and jack cheese, if desired. via food.com"
+  }
+}
