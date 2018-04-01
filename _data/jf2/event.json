@@ -1,0 +1,18 @@
+{
+  "type": "event",
+  "name": "IndieWeb Summit",
+  "url": "https://indieweb.org/2017",
+  "start": "2017-06-24 09:30",
+  "end": "2017-06-25 18:00",
+  "location": {
+    "type": "h-card",
+    "name": "Mozilla",
+    "org": "Mozilla",
+    "street-address": "1120 NW Couch St #320",
+    "locality": "Portland",
+    "region": "Oregon",
+    "postal-code": "97209",
+    "country-name": "United States",
+    "url": "https://wiki.mozilla.org/MozPDX"
+  }
+}
