@@ -1,0 +1,9 @@
+{
+  "type": "entry",
+  "name": "Checked in to Venue Name",
+  "checkin": {
+    "type": "card",
+    "name": "Venue Name",
+    "url": "http://example.com/venue"
+  }
+}
